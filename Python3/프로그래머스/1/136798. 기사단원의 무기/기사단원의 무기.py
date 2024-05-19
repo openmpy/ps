@@ -1,14 +1,12 @@
 def divisor_count(n):
-    cnt = 0
+    arr = []
 
     for i in range(1, int(n ** 0.5) + 1):
         if n % i == 0:
-            cnt += 2
+            arr.append(n // i)
+            arr.append(i)
 
-    if n ** 0.5 % 1 == 0:
-        cnt -= 1
-
-    return cnt
+    return len(set(arr))
 
 def solution(number, limit, power):
     answer = 0
