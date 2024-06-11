@@ -16,6 +16,9 @@
 - 6603번: 로또 (https://www.acmicpc.net/problem/6603)
 - 1759번: 암호 만들기 (https://www.acmicpc.net/problem/1759)
 
+## 순열
+- 10974번: 모든 순열 (https://www.acmicpc.net/problem/10974)
+
 ## 스택
 - 10773번: 제로 (https://www.acmicpc.net/problem/10773)
 - 4949번: 균형잡힌 세상 (https://www.acmicpc.net/problem/4949)
