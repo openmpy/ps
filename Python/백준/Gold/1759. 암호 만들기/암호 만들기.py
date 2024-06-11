@@ -19,9 +19,7 @@ def combination(index, level):
         cnt2 += 1
 
     if cnt >= 1 and cnt2 >= 2:
-      for ch in choose:
-        print(ch, end='')
-      print()
+      print(''.join(choose))
 
     return
   
