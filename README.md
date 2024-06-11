@@ -10,7 +10,11 @@
 
 ## 재귀 함수
 - 10870번: 피보나치 수 5 (https://www.acmicpc.net/problem/10870)
-- 4779: 칸토어 집합 (https://www.acmicpc.net/problem/4779)
+- 4779번: 칸토어 집합 (https://www.acmicpc.net/problem/4779)
+
+## 조합
+- 6603번: 로또 (https://www.acmicpc.net/problem/6603)
+- 1759번: 암호 만들기 (https://www.acmicpc.net/problem/1759)
 
 ## 스택
 - 10773번: 제로 (https://www.acmicpc.net/problem/10773)
