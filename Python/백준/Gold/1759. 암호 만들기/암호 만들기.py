@@ -4,10 +4,6 @@ arr.sort()
 
 choose = []
 check = ['a', 'e', 'i', 'o', 'u']
-check2 = ['b', 'c', 'd', 'f', 'g', 
-          'h', 'j', 'k', 'l', 'n', 
-          'm', 'p', 'q', 'r', 's', 
-          't', 'v', 'w', 'x', 'y', 'z']
 
 def combination(index, level):
   if level == l:
@@ -15,7 +11,7 @@ def combination(index, level):
     for ch in choose:
       if ch in check:
         cnt += 1
-      if ch in check2:
+      else:
         cnt2 += 1
 
     if cnt >= 1 and cnt2 >= 2:
