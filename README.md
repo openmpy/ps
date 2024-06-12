@@ -33,7 +33,9 @@
 
 ## 정렬
 - 1946번: 신입 사원 (https://www.acmicpc.net/problem/1946)
+- 11650번: 좌표 정렬하기 (https://www.acmicpc.net/problem/11650)
 - 11728번: 배열 합치기 (https://www.acmicpc.net/problem/11728)
+- 23246번: Sport Climbing Combined (https://www.acmicpc.net/problem/23246)
 
 ## 완전 탐색
 - 2309번: 일곱 난쟁이 (https://www.acmicpc.net/problem/2309)
