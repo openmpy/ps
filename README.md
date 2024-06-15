@@ -27,6 +27,11 @@
 - 18258번: 큐 2 (https://www.acmicpc.net/problem/18258)
 - 2164번: 카드2 (https://www.acmicpc.net/problem/2164)
 
+## 브루트 포스
+- 2503번: 숫자 야구 (https://www.acmicpc.net/problem/2503)
+- 1182번: 부분수열의 합 (https://www.acmicpc.net/problem/1182)
+- 1342번: 행운의 문자열 (https://www.acmicpc.net/problem/1342)
+
 ## 이분 탐색
 - 2512번: 예산 (https://www.acmicpc.net/problem/2512)
 - 2343번: 기타 레슨 (https://www.acmicpc.net/problem/2343)
