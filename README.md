@@ -53,3 +53,6 @@
 ## 그리디
 - 11399번: ATM (https://www.acmicpc.net/problem/11399)
 - 2847번: 게임을 만든 동준이 (https://www.acmicpc.net/problem/2847)
+- 5585번: 거스름돈 (https://www.acmicpc.net/problem/5585)
+- 1026번: 보물 (https://www.acmicpc.net/problem/1026)
+- 1461번: 도서관 (https://www.acmicpc.net/problem/1461)
