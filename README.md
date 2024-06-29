@@ -15,6 +15,7 @@
 ## 조합
 - 6603번: 로또 (https://www.acmicpc.net/problem/6603)
 - 1759번: 암호 만들기 (https://www.acmicpc.net/problem/1759)
+- 15650번: N과 M (2) (https://www.acmicpc.net/problem/15650)
 
 ## 순열
 - 10974번: 모든 순열 (https://www.acmicpc.net/problem/10974)
@@ -35,6 +36,7 @@
 ## 이분 탐색
 - 2512번: 예산 (https://www.acmicpc.net/problem/2512)
 - 2343번: 기타 레슨 (https://www.acmicpc.net/problem/2343)
+- 2417번: 정수 제곱근 (https://www.acmicpc.net/problem/2417)
 
 ## 정렬
 - 1946번: 신입 사원 (https://www.acmicpc.net/problem/1946)
