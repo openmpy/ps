@@ -27,6 +27,7 @@
 ## 큐
 - 18258번: 큐 2 (https://www.acmicpc.net/problem/18258)
 - 2164번: 카드2 (https://www.acmicpc.net/problem/2164)
+- 1158번: 요세푸스 문제 (https://www.acmicpc.net/problem/1158)
 
 ## 브루트 포스
 - 2503번: 숫자 야구 (https://www.acmicpc.net/problem/2503)
@@ -58,3 +59,4 @@
 - 5585번: 거스름돈 (https://www.acmicpc.net/problem/5585)
 - 1026번: 보물 (https://www.acmicpc.net/problem/1026)
 - 1461번: 도서관 (https://www.acmicpc.net/problem/1461)
+- 1343번: 폴리오미노 (https://www.acmicpc.net/problem/1343)
