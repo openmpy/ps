@@ -38,6 +38,7 @@
 - 2512번: 예산 (https://www.acmicpc.net/problem/2512)
 - 2343번: 기타 레슨 (https://www.acmicpc.net/problem/2343)
 - 2417번: 정수 제곱근 (https://www.acmicpc.net/problem/2417)
+- 2805번: 나무 자르기 (https://www.acmicpc.net/problem/2805)
 
 ## 정렬
 - 1946번: 신입 사원 (https://www.acmicpc.net/problem/1946)
