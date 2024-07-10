@@ -1,14 +1,13 @@
 from itertools import combinations
 
-n, s = map(int, input().split())
+N, S = map(int, input().split())
 nums = list(map(int, input().split()))
 
-answer = 0
+ans = 0
 
-for i in range(1, n + 1):
-  comb = combinations(nums, i)
-  for com in comb:
-    if sum(com) == s:
-      answer += 1
+for i in range(1, N + 1):
+  for comb in combinations(nums, i):
+    if sum(comb) == S:
+      ans += 1
 
-print(answer)
+print(ans)
