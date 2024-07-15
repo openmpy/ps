@@ -61,3 +61,6 @@
 - 1026번: 보물 (https://www.acmicpc.net/problem/1026)
 - 1461번: 도서관 (https://www.acmicpc.net/problem/1461)
 - 1343번: 폴리오미노 (https://www.acmicpc.net/problem/1343)
+
+## 누적합
+- 21318번: 피아노 체조 (https://www.acmicpc.net/problem/21318)
