@@ -64,3 +64,6 @@
 
 ## 누적합
 - 21318번: 피아노 체조 (https://www.acmicpc.net/problem/21318)
+
+## BFS
+- 2178번: 미로 탐색 (https://www.acmicpc.net/problem/2178)
