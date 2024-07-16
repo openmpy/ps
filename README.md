@@ -64,6 +64,8 @@
 
 ## 누적합
 - 21318번: 피아노 체조 (https://www.acmicpc.net/problem/21318)
+- 2559번: 수열 (https://www.acmicpc.net/problem/2559)
+- 14465번: 소가 길을 건너간 이유 5 (https://www.acmicpc.net/problem/14465)
 
 ## BFS
 - 2178번: 미로 탐색 (https://www.acmicpc.net/problem/2178)
