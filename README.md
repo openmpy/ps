@@ -67,5 +67,9 @@
 - 2559번: 수열 (https://www.acmicpc.net/problem/2559)
 - 14465번: 소가 길을 건너간 이유 5 (https://www.acmicpc.net/problem/14465)
 
+## 트리
+- 1068번: 트리 (https://www.acmicpc.net/problem/1068)
+- 14267번: 회사 문화 1 (https://www.acmicpc.net/problem/14267)
+
 ## BFS
 - 2178번: 미로 탐색 (https://www.acmicpc.net/problem/2178)
