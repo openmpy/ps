@@ -71,5 +71,9 @@
 - 1068번: 트리 (https://www.acmicpc.net/problem/1068)
 - 14267번: 회사 문화 1 (https://www.acmicpc.net/problem/14267)
 
+## 그래프
+- 2606번: 바이러스 (https://www.acmicpc.net/problem/2606)
+- 5567번: 결혼식 (https://www.acmicpc.net/problem/5567)
+
 ## BFS
 - 2178번: 미로 탐색 (https://www.acmicpc.net/problem/2178)
